@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning ** | C# | Python | Javascript | Bootstraps | React & Next.js 
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact : **The heart shape we associate with love wasn’t always a symbol of romance. It was inspired by ancient representations of the silphium plant, used in ancient times as a form of birth control!**
 
  </div>
  
@@ -29,23 +29,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,mui,html,css,vscode,github,figma,tailwind,git,linux" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,c#,java,postman,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,vscode,github,figma,tailwind,git,linux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,c,c#,java,postman,mysql" /><br>
 </div>
 
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
 
-
-<br/>
-<h2>My Project List</h3>
-<ol>
-    <li> <h4>[Ecoment](https://nlt-eco.vercel.app)**</h4></li>
-    <li><h4>[HR-Payroll](https://hr-payroll-omega.vercel.app/)**</h4></li>
-</ol>
-<hr/>
 
 <br/>
 <div align="center">
