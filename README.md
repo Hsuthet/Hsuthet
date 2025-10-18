@@ -6,40 +6,50 @@
 
 <h3 align="center">A passionate software developer from Myanmar 🇲🇲</h3>
 
-
-
 <div align="center">
- 
- 🔭 I’m currently working on **Developing Conpany**
- 
- 🌱 I’m currently learning ** | C# | Python | Javascript | Bootstraps | React & Next.js 
+  🔭 I’m currently working on **Resonant-Systems Co Ltd.** <br/>
+  🌱 I’m currently learning **C#, Python, JavaScript, Bootstrap, React & Next.js,PHP,Laravel** <br/>
+  ⚡ Fun fact: **Version control is like time travel: Git lets you go back in time and fix mistakes without breaking everything.**
+</div>
 
-⚡ Fun fact : **The heart shape we associate with love wasn’t always a symbol of romance. It was inspired by ancient representations of the silphium plant, used in ancient times as a form of birth control!**
-
- </div>
- 
-<div align="center"> 
+<div align="center" style="margin-top: 10px;">
   <a href="mailto:hsuthetpaingtun@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  <a href="https://github.com/salesp07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hsuthetpaingtun/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,vscode,github,figma,tailwind,git,linux" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,c,c#,java,postman,mysql" /><br>
-</div>
-
-<br/>
 <hr/>
 
+<h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nextjs,vscode,github,tailwind,figma,git,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,c,c#,java,postman,mysql" />
+</div>
 
+<hr/>
+
+<!-- <h2 align="center">📈 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salesp07&show_icons=true&theme=radical" />
+</div> -->
+
+<hr/>
+
+<h2 align="center">💻 Projects</h2>
+<div align="center">
+  <a href="https://github.com/salesp07/project1">Project 1</a> •
+  <a href="https://github.com/salesp07/project2">Project 2</a> •
+  <a href="https://github.com/salesp07/project3">Project 3</a>
+</div>
 
 <br/>
 <div align="center">
-<h3>Thank you all</h3>
+<h3>Thank you for visiting! 🙏</h3>
 </div>
-<br/>
