@@ -44,9 +44,9 @@
 
 <h2 align="center">💻 Projects</h2>
 <div align="center">
-  <a href="https://github.com/salesp07/project1">Project 1</a> •
-  <a href="https://github.com/salesp07/project2">Project 2</a> •
-  <a href="https://github.com/salesp07/project3">Project 3</a>
+  <a href="https://github.com/kaungmonkhant-gic/Employee_Management_System.git">Project 1</a> •
+  <a href="https://github.com/Hsuthet/University_Management_System.git">Project 2</a> •
+  <a href="https://github.com/Hsuthet/Project.git">Project 3</a>
 </div>
 
 <br/>
